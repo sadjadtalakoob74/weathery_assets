@@ -1,6 +1,14 @@
 {
 "appVersion": {
-    "version_name": "1.0.0"
-    "version_code": 1
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "downloadSourceItems": [
+            {
+              "title": "string",
+              "url": "string",
+              "isActive": true,
+              "icon": "string"
+            }
+          ]
     }
 }    
